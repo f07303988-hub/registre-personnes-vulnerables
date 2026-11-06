@@ -13,7 +13,7 @@
  * IMPORTANT : incrémenter CACHE_VERSION à chaque nouvelle version livrée de l'application.
  * C'est ce qui force le navigateur à abandonner proprement l'ancien cache.
  */
-const CACHE_VERSION = 'rpv-v49';
+const CACHE_VERSION = 'rpv-v51';
 const CACHE_NAME = `registre-pv-${CACHE_VERSION}`;
 
 const CORE_ASSETS = [
